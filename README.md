@@ -14,7 +14,7 @@ IET10MO (Monarch) is a stick-shaped device, which makes easier to install on car
 - Minimum order quantity for custom casing or fixation: 200000 products
 
 # Device manual
- - [IET10MO manual](Document/Manual/IET10MO_Manual_V1_9_240215.pdf)
+ - [IET10MO manual](Document/Manual/IET10MO_Manual_V2_241016.pdf)
 
 # Android APP
  - [IET10 APP](APP/app-t10-DeepSleep.apk)
